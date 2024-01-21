@@ -1,2 +1,2 @@
 # SQL Intermediate HackerRank Challanges
- HackerRank sql challanges solution
+ HackerRank SQL Intermediate challanges solutions
